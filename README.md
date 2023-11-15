@@ -1,5 +1,5 @@
 # MiningVis-data-visualization-D3js
-We created a visual analytics tool to aid in the invesitigation of the history and statistics of the Bitcoin mining business.
+We created a visual analytics tool to aid in the investigation of the history and statistics of the Bitcoin mining business.
 
 ![visualization](https://github.com/dhanrajbhosale/MiningVis-data-visualization-D3js/blob/97ab814b3c21ea6faf943be7c75865f0ac691309/poster-1.png?raw=true)
 
@@ -43,7 +43,7 @@ pools; the total amount of miners’ rewards (default) or the total number of mi
 – Interaction: Analysts can hover over the flow or stacked bars to see the exact value.
 
 # How to run?
-- close repository
+- clone repository
 - Open a terminal window of the root directory.
 - Execute the command to start the server.
 - Python 2 — python -m SimpleHTTPServer 8000
